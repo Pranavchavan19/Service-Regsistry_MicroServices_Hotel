@@ -1,6 +1,6 @@
 eureka:
   instance:
-    hostname: localhost
+    hostname: https://service-regsistry-microservices-hotel.onrender.com
   client:
     register-with-eureka: false
     fetch-registry: false
